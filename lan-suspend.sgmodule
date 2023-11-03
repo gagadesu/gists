@@ -1,0 +1,7 @@
+#!name=lan-suspend
+#!desc=Suspend Surge when connected to lan
+#!system=ios
+
+[SSID Setting]
+ROUTER:10.0.1.7 suspend=true
+ROUTER:10.0.3.1 suspend=true
