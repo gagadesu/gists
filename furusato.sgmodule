@@ -1,0 +1,6 @@
+#!name=furusato
+#!desc=Switch network config to furusato
+#!system=mac
+
+[General]
+dns-server = 119.29.29.29, 223.5.5.5, system
